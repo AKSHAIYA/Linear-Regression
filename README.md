@@ -1,1 +1,1 @@
-# Linear Regression
+# Bigmart Sales prediction using Linear Regression
